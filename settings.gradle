@@ -16,4 +16,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "TaxseeAssistant"
-include ':app'
+include ':App'
