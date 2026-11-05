@@ -38,4 +38,5 @@ jobs:
         with:
           name: Taxsee-Assistant-Apk
           path: app/build/outputs/
+          apk/debug/*.apk
           
